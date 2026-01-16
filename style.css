@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+    margin-top: 40px;
+    font-size: 2.2rem ;
+}
+
+ .profile-pic img{
+        image-resolution: inherit;
+         width: 150px;
+         height: 150px;
+         border-radius: 50%;
+         border: 30px;
+ }
+
+section{
+    max-width: 800px;
+    margin: 30px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+h2 {
+margin-bottom: 10px;
+font-size: 1.4rem;
+}
+p {
+    font-size: 1rem;
+    font-style: oblique;
+}
