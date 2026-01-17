@@ -1,8 +1,9 @@
 h1 {
     text-align: center;
-    font-style: italic;
+    font-style: inherit;
     margin-top: 40px;
-    font-size: 2.2rem ;
+    margin-botttom: 60px;
+    font-size: 2.8rem ;
 }
 
  .profile-pic img{
@@ -22,9 +23,9 @@ section{
 }
 h2 {
 margin-bottom: 10px;
-font-size: 1.4rem;
+font-size: 2.4rem;
 }
 p {
-    font-size: 1rem;
-    font-style: oblique;
+    font-size: 2rem;
 }
+
